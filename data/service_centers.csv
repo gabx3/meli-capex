@@ -1,0 +1,13 @@
+﻿id_sc,nombre_sc,estado,tipo_sc,m2_operativos,throughput_diario_meta,throughput_real_ult_semana,avance_obra_civil_pct,avance_compras_pct,avance_licencias_pct,fecha_estimada_apertura,fecha_apertura_real,dias_retraso,nivel_automatizacion,mix_gm_pct,mix_large_pct,mix_oversize_pct,capex_presupuestado_usd,capex_ejercido_usd,estatus_general,observaciones
+SC-001,SMX-Norte,CDMX,Mediano,1800,3500,3200,100,95,80,2026-02-15,,0,semi,72,20,8,850000,780000,En operación piloto,Licencias pendientes de validación final
+SC-002,SMX-Sur,CDMX,Grande,3200,6000,0,85,60,30,2026-04-10,,35,semi,70,20,10,1250000,620000,En habilitación,Retraso en entrega de equipamiento por proveedor
+SC-003,GDL-Zapopan,Jalisco,Mediano,2100,4000,0,100,90,95,2026-03-01,,18,semi,75,18,7,920000,890000,Pre-apertura,Sorter con falla en instalación — reemplazo en camino
+SC-004,MTY-San Nicolás,Nuevo León,Grande,4000,8000,0,60,40,20,2026-06-20,,0,full,68,22,10,1800000,540000,En obra civil,Sin retrasos previstos a la fecha
+SC-005,QRO-Centro,Querétaro,Pequeño,750,1500,0,100,100,100,2026-01-30,2026-02-05,0,manual,78,15,7,380000,395000,Operativo,Apertura completada — sobre presupuesto por ajuste de lockers
+SC-006,PUE-Angelópolis,Puebla,Mediano,1950,3800,0,70,55,45,2026-05-05,,14,semi,73,19,8,890000,480000,En habilitación,Demora en permisos municipales — riesgo de +30 días
+SC-007,SLP-Industrial,San Luis Potosí,Pequeño,900,1800,0,95,85,70,2026-03-15,,8,manual,76,16,8,420000,360000,Pre-apertura,Proveedor de mesas de clasificación entrega tarde
+SC-008,TIJ-Otay,Baja California,Grande,3600,7000,0,45,30,10,2026-08-01,,0,full,65,25,10,1650000,310000,En obra civil,Proyecto en tiempo — riesgo por temporada de lluvias
+SC-009,MER-Centro,CDMX,Especializado,1200,2200,0,90,75,60,2026-04-20,,21,semi,60,25,15,750000,560000,En habilitación,SC Large+OS — requiere zona de voluminosos adicional
+SC-010,VER-Boca del Río,Veracruz,Pequeño,680,1200,0,100,100,85,2026-02-28,,5,manual,80,14,6,310000,295000,Pre-apertura,Licencia de funcionamiento en trámite final
+SC-011,AGS-Desarrollo,Aguascalientes,Mediano,2300,4500,0,30,20,5,2026-09-10,,0,semi,71,21,8,1050000,185000,En obra civil,Primera apertura en la región — sin benchmark local
+SC-012,LEO-Norte,Guanajuato,Grande,3100,5800,0,55,45,25,2026-07-15,,0,semi,69,21,10,1180000,425000,En obra civil,Retraso potencial por huelga de construcción en zona
